@@ -1,6 +1,6 @@
 - 👋 Hi, I’m david
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently learning cloud computing
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me "lawalodavid@gmail.com"
 - 😄 Pronouns: he/him
