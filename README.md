@@ -1,6 +1,7 @@
 - 👋 Hi, I’m david
+- 💻 i'm a UI/UX designer
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning cloud computing
+- 🌱 I’m currently learning cyber security
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me "lawalodavid@gmail.com"
 - 😄 Pronouns: he/him
